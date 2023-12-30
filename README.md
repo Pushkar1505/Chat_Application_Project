@@ -1,4 +1,4 @@
-# React Chat App Coding Ninjas
+# React Chat Application
 
 ## Description
 
